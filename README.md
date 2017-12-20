@@ -11,4 +11,4 @@ Client Usage:
 ```
   Will fetch and return game title from the store.
   
-For PSNItem properties refer to [GameItem](!https://github.com/FaithLV/PSN.NET/blob/master/PSN.NET/PSNGameItem.cs) object.
+For PSNItem properties refer to [GameItem](https://github.com/FaithLV/PSN.NET/blob/master/PSN.NET/PSNGameItem.cs) object.
