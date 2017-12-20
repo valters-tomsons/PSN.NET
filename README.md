@@ -1,5 +1,5 @@
 # PSN.NET
-.NET API for Playstation Network Store fetching
+.NET Standard API for Playstation Network Store fetching
 
 This simple library wraps Playstation Store Chihiro API in .NET Standard.
 
