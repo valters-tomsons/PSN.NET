@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSN.NET", "PSN.NET\PSN.NET.csproj", "{038AE3E5-8526-41A1-B0F2-1984EAC45DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSNExample", "PSNExample\PSNExample.csproj", "{E08A2C4C-F0A2-4DBE-BAF6-ED29E2AE4555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{038AE3E5-8526-41A1-B0F2-1984EAC45DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038AE3E5-8526-41A1-B0F2-1984EAC45DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038AE3E5-8526-41A1-B0F2-1984EAC45DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038AE3E5-8526-41A1-B0F2-1984EAC45DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08A2C4C-F0A2-4DBE-BAF6-ED29E2AE4555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08A2C4C-F0A2-4DBE-BAF6-ED29E2AE4555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08A2C4C-F0A2-4DBE-BAF6-ED29E2AE4555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08A2C4C-F0A2-4DBE-BAF6-ED29E2AE4555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB7B0B91-34D4-4EA7-9034-600F315492BE}
+	EndGlobalSection
+EndGlobal
